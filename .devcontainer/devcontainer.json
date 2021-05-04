@@ -1,0 +1,5 @@
+{
+  "name": "strapi",
+  "dockerFile": "DockerFile",
+  "appPort": 3000
+}

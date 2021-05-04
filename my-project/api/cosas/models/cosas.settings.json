@@ -1,0 +1,20 @@
+{
+  "kind": "collectionType",
+  "collectionName": "cosas",
+  "info": {
+    "name": "cosas"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "Nombre": {
+      "type": "string"
+    },
+    "Cantidad": {
+      "type": "integer"
+    }
+  }
+}
